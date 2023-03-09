@@ -432,7 +432,7 @@
 "date_util_time_ago_year" = "[time] y ago";
 "disable_account_protection_confirm_btn_cancel" = "Cancel";
 "disable_account_protection_confirm_btn_confirm" = "Confirm";
-"disable_account_protection_confirm_description" = "You will no loger be able to use [Recovery codes]${highlight} or [SMS verification]${highlight} to recover your Supercell ID account if you lose access to your email.";
+"disable_account_protection_confirm_description" = "You will no longer be able to use [Recovery codes]${highlight} or [SMS verification]${highlight} to recover your Supercell ID account if you lose access to your email.";
 "disable_account_protection_confirm_heading" = "Are you sure you want to deactivate Account Protection?";
 "disable_account_protection_enter_email_pin_btn_cancel" = "Cancel";
 "disable_account_protection_enter_email_pin_btn_submit" = "Submit";

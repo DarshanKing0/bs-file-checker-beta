@@ -7,7 +7,7 @@
 		{
 			"key" : "storage",
 			"name" : "存储空间",
-			"permissions" : [ "android.permission.WRITE_EXTERNAL_STORAGE", "android.permission.READ_EXTERNAL_STORAGE" ],
+			"permissions" : [ "android.permission.WRITE_EXTERNAL_STORAGE", "android.permission.READ_EXTERNAL_STORAGE", "android.permission.READ_MEDIA_IMAGES", "android.permission.READ_MEDIA_VIDEO", "android.permission.READ_MEDIA_AUDIO" ],
 			"desc" : "需要授予照片、媒体、文件以及外部存储空间的访问权限才能进行游戏设置、缓存及一对一询问处理。"
 		},
 		{
