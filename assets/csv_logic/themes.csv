@@ -60,8 +60,12 @@
 "LNY23","true","sc/background_lny23.sc","bgr_lny23",,,,,"Retro_Fight_Menu","sfx/brawl_fighting_load_01.ogg",
 "LNY23red","true","sc/background_lny23.sc","bgr_lny23red",,,,,"Retro_Fight_Menu","sfx/brawl_fighting_load_01.ogg",
 "Darkmas","true","sc/background_darkmas.sc","bgr_darkmas","sc/ui.sc","particle_snow_","Snow",2,"Krampus_Menu","sfx/dark_xmas_load_01.ogg","sc/loading_darkmas.sc"
-"Masks",,"sc/background_masks.sc","bgr_masks",,,,,"Mask_Dance_Menu","sfx/brawl_mask_dance_loading_jingle_01.ogg",
-"Easter2023",,"sc/background_easter_2023.sc","bgr_easter2023",,,,,"MenuMusic",,
-"Popstar",,"sc/background_popstar.sc","bgr_popstar",,,,,"MenuMusic",,
-"Ramadan2023",,"sc/background_ramadan2023.sc","bgr_ramadan2023",,,,,"Brawzaar_menu_muzak",,
-"Hub",,"sc/background_hub.sc","bgr_hub",,,,,"Scifi_Noir_Menu","sfx/brawl_noir_loading_jingle_01.ogg",
+"Masks","true","sc/background_masks.sc","bgr_masks",,,,,"Mask_Dance_Menu","sfx/brawl_mask_dance_loading_jingle_01.ogg",
+"Easter2023","true","sc/background_easter_2023.sc","bgr_easter2023",,,,,"MenuMusic",,
+"Popstar","true","sc/background_popstar.sc","bgr_popstar",,,,,"MenuMusic",,
+"Ramadan2023","true","sc/background_ramadan2023.sc","bgr_ramadan2023",,,,,"Brawzaar_menu_muzak",,
+"Hub","true","sc/background_hub.sc","bgr_hub",,,,,"Scifi_Noir_Menu",,
+"Olympus",,"sc/background_olympus.sc","bgr_olympus",,,,,"Brawlympus_Menu","sfx/brawlympus_loading_01.ogg","sc/loading_olympus.sc"
+"GoldenWeek2023",,"sc/background_gw2023.sc","bgr_gw2023",,,,,"Lunar_Menu_Music",,
+"Jungle",,"sc/background_jungle.sc","bgr_jungle",,,,,"Brawl_Jungle_Menu","sfx/brawl_jungle_loading_01.ogg",
+"Deepsea2023",,"sc/background_deepsea.sc","bgr_deepsea",,,,,"Deepsea_Beastieboys_Menu","sfx/brawl_underwater_load_01.ogg",

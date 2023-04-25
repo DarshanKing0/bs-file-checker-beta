@@ -6,7 +6,7 @@
 "Blocking3","Y",,"true","true","true",,,,,,,,,"blocking3","crate_explosion","crate_hit",,,,,,,"true",,100,60,-10,60,25,,,,,"true",1,
 "Blocking4","C",,"true","true","true",,,,,,,,,"blocking4","barrel_explosion","barrel_hit",,,,,,,"true",,100,60,-10,60,25,,,,,"true",1,
 "DecoDestructible","D",,,,,"true",,,,,,,,"destructable",,,,,,,,,"true",,100,60,-10,60,25,,,,,"true",1,
-"Indestructible","I",,"true","true",,,,,,,,,,"indestructible",,"Solid_hit_fx",,,,,,1,"true",,100,60,-10,60,25,,,,,,1,
+"Indestructible","I",,"true","true",,,,,,,,,,"indestructible","indestructible_explo_fx","Solid_hit_fx",,,,,,1,"true",,100,60,-10,60,25,,,,,,1,
 "Forest","F",,,,"true",,,"true",,,,,,"forest","Grass_explo_fx_yellow","Grass_hit_fx_yellow",,,,,,-1,"true","true",100,60,-10,60,25,,,,,"true",1,
 "RespawningForest","R",,,,"true",,,"true",,,,,,"respawningforest","Grass_explo_fx","Grass_hit_fx",,,,,,-1,"true","true",100,60,-10,60,25,,,,,,1,
 "Water","W",,"true",,,,,,,,,,,"water_tile",,,,,,,,,,,100,60,-10,60,25,,,,,"true",4,"true"
