@@ -421,7 +421,7 @@
 "MechaDude_hp","sc/ui.sc","health_icon","MechaDude","","","","","1","","hp","","","","","common","TID_ARMOR","TID_ARMOR_STAT","","","","genicon_health","","","","",""
 "MechaDude_abi","sc/ui.sc","attack_icon","MechaDude","","","","","2","","skill","MechaDudeWeapon","","","","common","TID_MECHA_DUDE_WEAPON","TID_STAT_DAMAGE","","","","genicon_damage","","","","",""
 "MechaDude_ulti","sc/ui.sc","ulti_icon","MechaDude","","","","","3","","skill","MechaDudeUlti","","","","common","TID_MECHA_DUDE_ULTI","TID_STAT_DAMAGE","","","","genicon_damage","","","","",""
-"MechaDude_unique","sc/ui.sc","","MechaDude","","","","","4","","downgrade_shield","","35","600","","common","TID_SPEC_ABI_MECHA_DUDE_1","","","","","genicon_damage","","","","","2000"
+"MechaDude_unique","sc/ui.sc","","MechaDude","","","","","4","","downgrade_shield","","25","200","","common","TID_SPEC_ABI_MECHA_DUDE_1","","","","","genicon_damage","","","","","2000"
 "MechaDude_unique_2","sc/ui.sc","","MechaDude","","","","","4","","mecha_explosion","","1","","","common","TID_SPEC_ABI_MECHA_DUDE_2","","","","","genicon_damage","","","","","2000"
 "MechaDude_Heal","sc/ui.sc","icon_item_meg_1","MechaDude","","","","","5","","accessory","MechaDude_Heal","1","20","","common","TID_ACCESSORY_MECHA_DUDE_HEAL","","","","","genicon_health","","","","","1000"
 "MechaDudeBig_hp","sc/ui.sc","health_icon","MechaDudeBig","","","","","1","","hp","","","","","common","TID_ARMOR","TID_ARMOR_STAT","","","","genicon_health","","","","",""
