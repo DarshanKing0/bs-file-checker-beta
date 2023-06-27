@@ -265,6 +265,7 @@
 "account_settings_info_tos_text" = "Terms of Service";
 "account_settings_info_tos_url" = "http://supercell.com/terms-of-service";
 "account_settings_info_tutorial" = "Tutorial Video";
+"account_settings_log_out_all_devices_btn" = "Log Out All Devices";
 "account_settings_log_out_btn" = "Log Out";
 "account_settings_log_out_info" = "Want to switch account? Current game progress will be saved.";
 "account_settings_logged_in_with" = "Logged in with";

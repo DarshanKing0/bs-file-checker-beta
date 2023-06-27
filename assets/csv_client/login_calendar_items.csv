@@ -7,3 +7,8 @@
 "PinX2","TID_LOGIN_CALENDAR_REWARD_PIN_X2","TID_LOGIN_CALENDAR_REWARD_DESC_PIN_X2",20,"sc/ui.sc","login_calendar_panel_reward_pin_2","login_calendar_hud_reward_pin_2",,"login_calendar_featured_reward_pin_2","2_pins","2_pins"
 "Skin","TID_LOGIN_CALENDAR_REWARD_SKIN","TID_LOGIN_CALENDAR_REWARD_DESC_SKIN",4,"sc/ui.sc","login_calendar_panel_reward_skin","login_calendar_hud_reward_skin",,"login_calendar_featured_reward_skin","skin","skin"
 "GadgetStarPowerChoice","TID_LOGIN_CALENDAR_REWARD_GADGET_CHOICE","TID_LOGIN_CALENDAR_REWARD_DESC_GADGET_CHOICE",5,"sc/ui.sc","login_calendar_panel_reward_item_2","login_calendar_hud_reward_item_2","login_calendar_choose_item","login_calendar_featured_reward_item_2","item_2","item_2"
+"HeroLvlUpMaterial","TID_LOGIN_CALENDAR_REWARD_HERO_LVL_UP_MATERIAL","TID_LOGIN_CALENDAR_REWARD_DESC_HERO_LVL_UP_MATERIAL",1,"sc/ui.sc",login_calendar_panel_reward_resource_coins,login_calendar_hud_reward_resource_coins,,,,
+"PowerPoints","TID_LOGIN_CALENDAR_REWARD_POWER_POINTS","TID_LOGIN_CALENDAR_REWARD_DESC_POWER_POINTS",41,"sc/ui.sc",login_calendar_panel_reward_resource_power_points,login_calendar_hud_reward_resource_power_points,,,,
+"RecruitTokens","TID_LOGIN_CALENDAR_REWARD_RECRUIT_TOKEN","TID_LOGIN_CALENDAR_REWARD_DESC_RECRUIT_TOKEN",38,"sc/ui.sc",login_calendar_panel_reward_resource_recruit_tokens,login_calendar_hud_reward_resource_recruit_tokens,,,,
+"Bling","TID_LOGIN_CALENDAR_REWARD_BLING","TID_LOGIN_CALENDAR_REWARD_DESC_BLING",45,"sc/ui.sc",login_calendar_panel_reward_resource_cosmetic_coins,login_calendar_hud_reward_resource_cosmetic_coins,,,,
+"Brawler","TID_LOGIN_CALENDAR_REWARD_BRAWLER","TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER",3,"sc/ui.sc",login_calendar_panel_reward_skin_single,login_calendar_hud_brawler_1,,,,

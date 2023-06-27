@@ -12,5 +12,6 @@
   "InternalDomains": [
     "www.google.com"
   ],
-  "EnableStoreAndGifts":true
+  "EnableStoreAndGifts":true,
+  "UseSessionToken": false
 }

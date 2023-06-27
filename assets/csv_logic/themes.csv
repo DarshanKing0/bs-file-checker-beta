@@ -65,7 +65,12 @@
 "Popstar","true","sc/background_popstar.sc","bgr_popstar",,,,,"MenuMusic",,
 "Ramadan2023","true","sc/background_ramadan2023.sc","bgr_ramadan2023",,,,,"Brawzaar_menu_muzak",,
 "Hub","true","sc/background_hub.sc","bgr_hub",,,,,"Scifi_Noir_Menu",,
-"Olympus",,"sc/background_olympus.sc","bgr_olympus",,,,,"Brawlympus_Menu","sfx/brawlympus_loading_01.ogg","sc/loading_olympus.sc"
-"GoldenWeek2023",,"sc/background_gw2023.sc","bgr_gw2023",,,,,"Lunar_Menu_Music",,
-"Jungle",,"sc/background_jungle.sc","bgr_jungle",,,,,"Brawl_Jungle_Menu","sfx/brawl_jungle_loading_01.ogg",
-"Deepsea2023",,"sc/background_deepsea.sc","bgr_deepsea",,,,,"Deepsea_Beastieboys_Menu","sfx/brawl_underwater_load_01.ogg",
+"Olympus","true","sc/background_olympus.sc","bgr_olympus",,,,,"Brawlympus_Menu","sfx/brawlympus_loading_01.ogg","sc/loading_olympus.sc"
+"GoldenWeek2023","true","sc/background_gw2023.sc","bgr_gw2023",,,,,"Lunar_Menu_Music",,
+"Jungle","true","sc/background_jungle.sc","bgr_jungle",,,,,"Brawl_Jungle_Menu","sfx/brawl_jungle_loading_01.ogg",
+"Deepsea2023","true","sc/background_deepsea.sc","bgr_deepsea",,,,,"Deepsea_Beastieboys_Menu","sfx/brawl_underwater_load_01.ogg",
+"Enchanted",,"sc/background_enchantedforest.sc","bgr_enchanted",,,,,"Brawl_Enchanted_Forest_Menu","sfx/enchanted_forest_loading_01.ogg",
+"Phoenix",,"sc/background_phoenix.sc","bgr_phoenix","sc/ui.sc","particle_ember_","Ember",2,"Action_Western_Menu",,
+"Velocirapids2023",,"sc/background_velocirapids2023.sc","bgr_velocirapids2023",,,,,"Summer_Brawl_Menu_Muzak",,
+"Cursedpirates",,"sc/background_cursedpirates.sc","bgr_cursedpirates",,,,,"Brawl_Cursed_Pirates_Menu","sfx/cursed_pirates_loading_01.ogg","sc/loading_cursed.sc"
+"Football2023",,"sc/background_football2023.sc","bgr_football2023",,,,,"Footbrawl_menu_muzak",,
