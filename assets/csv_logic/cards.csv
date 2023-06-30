@@ -535,7 +535,7 @@
 "DoorMan_hp","sc/ui.sc","health_icon","DoorMan","","","","","1","","hp","","","","","common","TID_ARMOR","TID_ARMOR_STAT","","","","genicon_health","","","","",""
 "DoorMan_abi","sc/ui.sc","attack_icon","DoorMan","","","","","2","","skill","DoorManWeapon","","","","common","TID_DOORMAN_WEAPON","TID_STAT_DAMAGE","","","","genicon_damage","","","","",""
 "DoorMan_ulti","sc/ui.sc","ulti_icon","DoorMan","","","","","3","","skill","DoorManUlti","","","","common","TID_DOORMAN_ULTI","TID_STAT_DAMAGE","","","","genicon_damage","","","","",""
-"DoorMan_unique","sc/ui.sc","","DoorMan","","","","","4","","reduce_damage_full_health","","75","","","common","TID_SPEC_ABI_DOORMAN_1","","","","","genicon_damage","","","","","2000"
+"DoorMan_unique","sc/ui.sc","","DoorMan","","","","","4","","reduce_damage_full_health","","50","","","common","TID_SPEC_ABI_DOORMAN_1","","","","","genicon_damage","","","","","2000"
 "DoorMan_unique_2","sc/ui.sc","","DoorMan","","","","","4","","portal_healing","","1000","","","common","TID_SPEC_ABI_DOORMAN_2","","","","","genicon_damage","","","","","2000"
 "DoorMan_Puller","sc/ui.sc","icon_item_gray_1","DoorMan","","","","","5","","accessory","DoorMan_Puller","","","","common","TID_ACCESSORY_DOORMAN_GADGET_1","","","","","genicon_health","","","","","1000"
 "DoorMan_DamageDrop","sc/ui.sc","icon_item_gray_2","DoorMan","","","","","5","","accessory","DoorMan_DamageDrop","","","","common","TID_ACCESSORY_DOORMAN_GADGET_2","","","","","genicon_health","","","","","1000"

@@ -141,8 +141,8 @@ io.sentry:sentry-android-okhttp:6.19.0
 io.sentry:sentry-android:6.19.1
 io.sentry:sentry:6.19.1
 javax.inject:javax.inject:1
-no.promon.shield:ShieldSDK-callbacks:5.6.0
-no.promon.shield:ShieldSDK-common:5.6.0
+no.promon.shield:ShieldSDK-callbacks:5.7.0
+no.promon.shield:ShieldSDK-common:5.7.0
 org.apache.commons:commons-lang3:3.8.1
 org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.6.20
 org.jetbrains.kotlin:kotlin-parcelize-runtime:1.5.21
