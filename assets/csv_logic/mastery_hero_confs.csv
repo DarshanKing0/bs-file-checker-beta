@@ -70,3 +70,5 @@
 "MasteryFishTank","emoji_lilt_facepalm","player_icon_lilt1","TitleMasteryFishTank","sc/ui.sc","mastery_brawler_icon_lilt"
 "MasteryDuelist","emoji_tox_facepalm","player_icon_cordelius1","TitleMasteryCordelius","sc/ui.sc","mastery_brawler_icon_cornelius"
 "MasteryReviver","emoji_dino_facepalm","player_icon_doug1","TitleMasteryDoug","sc/ui.sc","mastery_brawler_icon_doug"
+"MasteryCooker","emoji_pearl_facepalm","player_icon_pearl1","TitleMasteryPearl","sc/ui.sc","mastery_brawler_icon_pearl"
+"MasteryConductor","emoji_chuck_facepalm","player_icon_chuck1","TitleMasteryChuck","sc/ui.sc","mastery_brawler_icon_chuck"

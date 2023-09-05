@@ -1,6 +1,6 @@
 "Name","Disabled","FileName","ExportName","ParticleFileName","ParticleExportName","ParticleStyle","ParticleVariations","ThemeMusic","LoadingJingle","LoadingScreen"
 "string","boolean","string","string","string","string","string","int","string","string","string"
-"Default",,"sc/background_basic.sc","bgr",,,,,"Action_Western_Menu",,
+"Default",,"sc/background_basic.sc","bgr",,,,,"MenuMusic",,
 "Winter","true","sc/background_basic.sc","bgr","sc/ui.sc","particle_snow_","Snow",2,"Snow_brawl",,
 "LNY","true","sc/background_lny.sc","bgr_cny",,,,,"Cnymenu_music",,
 "CR","true","sc/background_basic.sc","bgr_royale",,,,,"Brawl_royale_menu_music",,
@@ -69,8 +69,13 @@
 "GoldenWeek2023","true","sc/background_gw2023.sc","bgr_gw2023",,,,,"Lunar_Menu_Music",,
 "Jungle","true","sc/background_jungle.sc","bgr_jungle",,,,,"Brawl_Jungle_Menu","sfx/brawl_jungle_loading_01.ogg",
 "Deepsea2023","true","sc/background_deepsea.sc","bgr_deepsea",,,,,"Deepsea_Beastieboys_Menu","sfx/brawl_underwater_load_01.ogg",
-"Enchanted",,"sc/background_enchantedforest.sc","bgr_enchanted",,,,,"Brawl_Enchanted_Forest_Menu","sfx/enchanted_forest_loading_01.ogg",
-"Phoenix",,"sc/background_phoenix.sc","bgr_phoenix","sc/ui.sc","particle_ember_","Ember",2,"Action_Western_Menu",,
-"Velocirapids2023",,"sc/background_velocirapids2023.sc","bgr_velocirapids2023",,,,,"Summer_Brawl_Menu_Muzak",,
-"Cursedpirates",,"sc/background_cursedpirates.sc","bgr_cursedpirates",,,,,"Brawl_Cursed_Pirates_Menu","sfx/cursed_pirates_loading_01.ogg","sc/loading_cursed.sc"
-"Football2023",,"sc/background_football2023.sc","bgr_football2023",,,,,"Footbrawl_menu_muzak",,
+"Enchanted","true","sc/background_enchantedforest.sc","bgr_enchanted",,,,,"Brawl_Enchanted_Forest_Menu","sfx/enchanted_forest_loading_01.ogg",
+"Phoenix","true","sc/background_phoenix.sc","bgr_phoenix","sc/ui.sc","particle_ember_","Ember",2,"Action_Western_Menu",,
+"Velocirapids2023","true","sc/background_velocirapids2023.sc","bgr_velocirapids2023",,,,,"Summer_Brawl_Menu_Muzak",,
+"Cursedpirates","true","sc/background_cursedpirates.sc","bgr_cursedpirates",,,,,"Brawl_Cursed_Pirates_Menu","sfx/cursed_pirates_loading_01.ogg","sc/loading_cursed.sc"
+"Football2023","true","sc/background_football2023.sc","bgr_football2023",,,,,"Footbrawl_menu_muzak",,
+"Mechaedgar",,"sc/background_mecha_edgar.sc","bgr_mecha_edgar",,,,,"MechMenuMusic",,"sc/loading_mechaedgar.sc"
+"Brawloween2023",,"sc/background_ghosttrain.sc","bgr_ghosttrain",,,,,"Ghosttrain_Menu","sfx/ghost_train_load_01.ogg",
+"Wasteland",,"sc/background_wasteland.sc","bgr_wasteland",,,,,"Wasteland_Menu","sfx/wasteland_loading_01.ogg",
+"University",,"sc/background_university.sc","bgr_university",,,,,"Highschool_Menu","sfx/monster_university_loading_01.ogg","sc/loading_university.sc"
+"MoonFestival2023",,"sc/background_mf2023.sc","bgr_mf2023",,,,,"Lunar_Menu_Music",,
