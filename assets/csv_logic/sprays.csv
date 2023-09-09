@@ -156,7 +156,7 @@
 "spray_liltenant_1",,,"sc/ui.sc","spray_liltenant_1","FishTank",,"COMMON",195,234,27,"TRUE",,,,"spray_liltenant.png",750,19,,,,,,
 "spray_max_jungle",,,"sc/ui.sc","spray_max_jungle","Speedy","SpeedyLeopard","COMMON",255,218,0,"TRUE","TRUE",,,"spray_max_jungle.png",750,19,,,,"TRUE",,
 "spray_buster_jungle",,,"sc/ui.sc","spray_buster_jungle","ShieldTank","ShieldTankCroc","COMMON",6,204,0,"TRUE","TRUE",,,"spray_buster_jungle.png",750,19,,,,"TRUE",,
-"spray_meg_jungle",,,"sc/ui.sc","spray_meg_jungle",,,"COMMON",0,219,255,"TRUE","TRUE",,,"spray_meg_jungle.png",750,19,,,,"TRUE",,
+"spray_meg_jungle",,,"sc/ui.sc","spray_meg_jungle",,,"COMMON",0,219,255,"TRUE",TRUE,,,"spray_meg_jungle.png",,,,,,"TRUE",,
 "spray_brock_olympus",,,"sc/ui.sc","spray_brock_olympus","RocketGirl","RocketGirlZeus","COMMON",248,213,84,"TRUE","TRUE",,,"spray_brock_olympus.png",750,19,,,,"TRUE",,
 "spray_nani_olympus",,,"sc/ui.sc","spray_nani_olympus","Controller","ControllerAres","COMMON",255,188,0,"TRUE","TRUE",,,"spray_nani_olympus.png",750,19,,,,"TRUE",,
 "spray_tick_olympus",,,"sc/ui.sc","spray_tick_olympus","ClusterBombDude","ClusterBombDudeCerberus","COMMON",0,201,255,"TRUE","TRUE",,,"spray_tick_olympus.png",750,19,,,,"TRUE",,
