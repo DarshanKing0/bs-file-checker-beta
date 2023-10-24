@@ -1,17 +1,17 @@
 "Name","TicketsInRareDraw","TicketsInSuperRareDraw","TicketsInEpicDraw","TicketsInMythicDraw","TicketsInLegendaryDraw","TicketsInOverchargeDraw","TypeName","TypeValue","TypePriceMin","TypePriceMax","AmountMin","AmountMax","FallbackTypeName","FallbackAmount"
 "String","int","int","int","int","int","int","String","int","int","int","int","int","String","int"
-"Coins S",75,,,,,,"Coins",,,,50,70,,
-"Coins M",,45,,,,,"Coins",,,,100,140,,
-"Coins L",,,90,,,,"Coins",,,,200,240,,
-"Coins XL",,,,25,,,"Coins",,,,500,540,,
-"Gadget",,,,,35,,"Gadget",,,,,,"Coins",1000
-"Star Power",,,,,30,,"StarPower",,,,,,"Coins",1000
+"Coins S",90,,,,,,"Coins",,,,50,62,,
+"Coins M",,64,,,,,"Coins",,,,100,120,,
+"Coins L",,,100,,,,"Coins",,,,200,230,,
+"Coins XL",,,,30,,,"Coins",,,,500,610,,
+"Gadget",,,,,37,,"Gadget",,,,,,"Coins",1000
+"Star Power",,,,,22,,"StarPower",,,,,,"Coins",1000
 "Gears SR",,,,,,,"Gear",2,,,,,"Coins",500
 "Gears Mythic",,,,,,,"Gear",4,,,,,"Coins",500
-"Power Points S",85,,,,,,"PowerPoints",,,,20,30,,
-"Power Points M",,60,,,,,"PowerPoints",,,,50,70,,
-"Power Points L",,,60,,,,"PowerPoints",,,,100,130,,
-"Power Points XL",,,,35,,,"PowerPoints",,,,240,280,,
+"Power Points S",70,,,,,,"PowerPoints",,,,20,30,,
+"Power Points M",,50,,,,,"PowerPoints",,,,50,62,,
+"Power Points L",,,55,,,,"PowerPoints",,,,100,120,,
+"Power Points XL",,,,30,,,"PowerPoints",,,,200,230,,
 "Credits S",5,,,,,,"Credits",,,,20,28,,
 "Credits M",,4,,,,,"Credits",,,,50,60,,
 "Credits L",,,,,,,"Credits",,,,100,140,,
@@ -34,9 +34,9 @@
 "Spray 1-19 Gem",,,5,5,,,"Spray",,1,19,,,"Credits",100
 "Spray 20-29 Gem",,,,,5,,"Spray",,20,999,,,"Credits",150
 "Profile Pic",,,7,14,,,"ProfilePic",,,,,,"Credits",200
-"Token Doubler S",45,,,,,,"TokenDoubler",,,,100,150,"Credits",100
+"Token Doubler S",45,,,,,,"TokenDoubler",,,,100,110,"Credits",100
 "Skin 150-199 Gem",,,,,,,"Skin",,150,199,,,"Bling",100
 "Skin 200-999 Gem",,,,,,,"Skin",,200,999,,,"Bling",100
-"Token Doubler M",,37,,,,,"TokenDoubler",,,,200,275,"Credits",100
-"Token Doubler L",,,45,,,,"TokenDoubler",,,,500,750,"Credits",100
-"Overcharge",,,,,,1,"Overcharge",,,,,,"Coins",1000
+"Token Doubler M",,28,,,,,"TokenDoubler",,,,200,215,"Credits",100
+"Token Doubler L",,,40,,,,"TokenDoubler",,,,500,610,"Credits",100
+"Overcharge",,,,,6,1,"Overcharge",,,,,,"Coins",1000

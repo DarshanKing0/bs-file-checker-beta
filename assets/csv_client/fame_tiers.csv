@@ -15,3 +15,6 @@
 "Solar1",12000,5,"TID_FAME_TIER_SOLAR1","sc/ui.sc","icon_fame_tier_5_1","fame_big_tier_5","fame_stars_tier_5_1"
 "Solar2",12000,5,"TID_FAME_TIER_SOLAR2","sc/ui.sc","icon_fame_tier_5_2","fame_big_tier_5","fame_stars_tier_5_2"
 "Solar3",12000,5,"TID_FAME_TIER_SOLAR3","sc/ui.sc","icon_fame_tier_5_3","fame_big_tier_5","fame_stars_tier_5_3"
+"Meteor1",20000,6,"TID_FAME_TIER_METEOR1","sc/ui.sc","icon_fame_tier_6_1","fame_big_tier_6","fame_stars_tier_6_1"
+"Meteor2",20000,6,"TID_FAME_TIER_METEOR2","sc/ui.sc","icon_fame_tier_6_2","fame_big_tier_6","fame_stars_tier_6_2"
+"Meteor3",20000,6,"TID_FAME_TIER_METEOR3","sc/ui.sc","icon_fame_tier_6_3","fame_big_tier_6","fame_stars_tier_6_3"

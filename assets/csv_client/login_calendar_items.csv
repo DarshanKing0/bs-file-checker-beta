@@ -12,3 +12,6 @@
 "RecruitTokens","TID_LOGIN_CALENDAR_REWARD_RECRUIT_TOKEN","TID_LOGIN_CALENDAR_REWARD_DESC_RECRUIT_TOKEN",38,"sc/ui.sc",login_calendar_panel_reward_resource_recruit_tokens,login_calendar_hud_reward_resource_recruit_tokens,,,,
 "Bling","TID_LOGIN_CALENDAR_REWARD_BLING","TID_LOGIN_CALENDAR_REWARD_DESC_BLING",45,"sc/ui.sc",login_calendar_panel_reward_resource_cosmetic_coins,login_calendar_hud_reward_resource_cosmetic_coins,,,,
 "Brawler","TID_LOGIN_CALENDAR_REWARD_BRAWLER","TID_LOGIN_CALENDAR_REWARD_DESC_BRAWLER",3,"sc/ui.sc",login_calendar_panel_reward_skin_single,login_calendar_hud_brawler_1,,,,
+"OverchargeStarrDrop","TID_LOGIN_CALENDAR_REWARD_OVERCHARGE","TID_LOGIN_CALENDAR_REWARD_DESC_OVERCHARGE",47,"sc/ui.sc",login_calendar_panel_reward_random_reward,login_calendar_hud_reward_random_reward,,,,
+"StarrDropContainer",TID_LOGIN_CALENDAR_REWARD_STARR_DROP_CONTAINER,TID_LOGIN_CALENDAR_REWARD_DESC_STARR_DROP_CONTAINER,49,"sc/ui.sc",login_calendar_panel_reward_random_reward,login_calendar_hud_reward_random_reward,,,,
+RandomStarrDrop,TID_LOGIN_CALENDAR_REWARD_STARR_DROP,TID_LOGIN_CALENDAR_REWARD_DESC_STARR_DROP,50,"sc/ui.sc",login_calendar_panel_reward_random_reward,login_calendar_hud_reward_random_reward,,,,
