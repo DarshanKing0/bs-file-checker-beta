@@ -231,7 +231,7 @@
 "spray_byron_circus",,,"sc/ui.sc","spray_byron_circus","SnakeOil","SnakeOilDarkcircus","TRUE","COMMON",252,127,197,"TRUE",,,,"spray_byron_circus.png",,,,,,,,
 "spray_nita_circus",,,"sc/ui.sc","spray_nita_circus","Shaman","ShamanDarkcircus","TRUE","COMMON",255,22,47,"TRUE",,,,"spray_nita_circus.png",,,,,,,,
 "spray_mike_robo",,,"sc/ui.sc","spray_mike_robo","TntDude","TntDudeMecha","TRUE","COMMON",255,255,112,"TRUE",,,,"spray_mike_robo.png",,,,,,,,
-"spray_pam_evilqueen",,,"sc/ui.sc","spray_pam_evilqueen","MinigunDude","MinigunDudeQueen","TRUE","COMMON",255,7,24,"TRUE",,,,"spray_pam_evilqueen",,,,,,,,
+"spray_pam_evilqueen",,,"sc/ui.sc","spray_pam_evilqueen","MinigunDude","MinigunDudeQueen","TRUE","COMMON",255,7,24,"TRUE",,,,"spray_pam_evilqueen.png",,,,,,,,
 "spray_saw_robot_01",,,"sc/ui.sc","spray_saw_robot_01",,,,"COLLECTORS",144,84,229,"TRUE","TRUE",,,"spray_saw_robot_01.png",750,19,,,,,,
 "spray_saw_robot_02",,,"sc/ui.sc","spray_saw_robot_02",,,,"COLLECTORS",144,84,229,"TRUE","TRUE",,,"spray_saw_robot_02.png",750,19,,,,,,
 "spray_saw_robot_03",,,"sc/ui.sc","spray_saw_robot_03",,,,"COLLECTORS",144,84,229,"TRUE","TRUE",,,"spray_saw_robot_03.png",750,19,,,,,,

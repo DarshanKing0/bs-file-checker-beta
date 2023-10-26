@@ -4399,7 +4399,7 @@
 "KickerDudeMakeIdle","fang_make_idle.glb","","-1","-1","","100","100","","true",""
 "KickerDudeMakeWalk","fang_make_walk.glb","","-1","-1","","100","100","","true","1"
 "KickerDudeMakeAttack","fang_make_attack.glb","","5","","","","","","","3"
-"KickerDudeMakeSuper","fang_make_attack.glb","10","13","","","","100","50","","3"
+"KickerDudeMakeSuper","fang_make_attack.glb","10","13","","","","100","50","true","3"
 "KickerDudeMakeRecoil","fang_make_attack.glb","","25","","","","","100","","4"
 "KickerDudeMakeWin","fang_make_win.glb","","178","-1","","","","","",""
 "KickerDudeMakeWinloop","fang_make_win.glb","136","179","-1","","","","","true",""

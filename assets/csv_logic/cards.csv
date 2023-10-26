@@ -139,7 +139,7 @@
 "Shaman_unique_2","sc/ui.sc","","Shaman","","","","","4","","pet_attack_speed","","60","","","common","TID_SPEC_ABI_PET_ATTACK_SPEED","","","","","genicon_health","","","","","2000"
 "BullDude_unique_2","sc/ui.sc","","BullDude","","","","","4","","low_health_shield","","40","30","","common","TID_SPEC_ABI_LOW_HEALTH_SHIELD","","","","","genicon_health","","","","","2000"
 "Gunslinger_unique_2","sc/ui.sc","","Gunslinger","","","","","4","","attack_range","","3","","","common","TID_SPEC_ABI_ATTACK_RANGE","","","","","genicon_health","","","","","2000"
-"MinigunDude_unique_2","sc/ui.sc","","MinigunDude","","","","","4","","aoe_dot","","10","","","common","TID_SPEC_ABI_TURRET_AOE","","","","","genicon_health","","","","","2000"
+"MinigunDude_unique_2","sc/ui.sc","","MinigunDude","","","","","4","","aoe_dot","","10","","1","common","TID_SPEC_ABI_TURRET_AOE","","","","","genicon_health","","","","","2000"
 "Luchador_unique_2","sc/ui.sc","","Luchador","","","","","4","","speed_after_ulti","","200","80","","common","TID_SPEC_ABI_SPEED_AFTER_ULTI","","","","","genicon_health","","","","","2000"
 "Ninja_unique_2","sc/ui.sc","","Ninja","","","","","4","","heal_invisible","","20","","","common","TID_SPEC_ABI_HOT_INVISIBLE","","","","","genicon_health","","","","","2000"
 "ArtilleryDude_unique_2","sc/ui.sc","","ArtilleryDude","","","","","4","","ulti_spawn_explosion","","70","","","common","TID_SPEC_ABI_ARTILLERY_DUDE_2","","","","","genicon_health","","","","","2000"
