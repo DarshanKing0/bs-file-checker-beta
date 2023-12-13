@@ -73,3 +73,6 @@
 "MasteryCooker","emoji_pearl_facepalm","player_icon_pearl1","TitleMasteryPearl","sc/ui.sc","mastery_brawler_icon_pearl"
 "MasteryConductor","emoji_chuck_facepalm","player_icon_chuck1","TitleMasteryChuck","sc/ui.sc","mastery_brawler_icon_chuck"
 "MasteryCocooner","emoji_charlotte_facepalm","player_icon_charlie1","TitleMasteryCharlie","sc/ui.sc","mastery_brawler_icon_charlotte"
+"MasteryLeaper","emoji_miko_facepalm","player_icon_miko1","TitleMasteryMiko","sc/ui.sc","mastery_brawler_icon_miko"
+"MasteryAttacher","emoji_kit_facepalm","player_icon_kit1","TitleMasteryKit","sc/ui.sc","mastery_brawler_icon_kit"
+"MasteryTwins","emoji_twin_facepalm","player_icon_twins1","TitleMasteryTwins","sc/ui.sc","mastery_brawler_icon_twins"

@@ -1,4 +1,4 @@
-"Name","Disabled","FileName","ExportName","ParticleFileName","ParticleExportName","ParticleStyle","ParticleVariations","ThemeMusic","LoadingJingle","LoadingScreen","CustomButtonName"
+"WF20","Disabled","FileName","ExportName","ParticleFileName","ParticleExportName","ParticleStyle","ParticleVariations","ThemeMusic","LoadingJingle","LoadingScreen","CustomButtonName"
 "string","boolean","string","string","string","string","string","int","string","string","string","string"
 "Default",,"sc/background_basic.sc","bgr",,,,,"MenuMusic",,,
 "Winter","true","sc/background_basic.sc","bgr","sc/ui.sc","particle_snow_","Snow",2,"Snow_brawl",,,
@@ -79,8 +79,13 @@
 "Wasteland","true","sc/background_wasteland.sc","bgr_wasteland",,,,,"Wasteland_Menu","sfx/wasteland_loading_01.ogg",,
 "University","true","sc/background_university.sc","bgr_university",,,,,"Highschool_Menu","sfx/monster_university_loading_01.ogg","sc/loading_university.sc",
 "MoonFestival2023","true","sc/background_mf2023.sc","bgr_mf2023",,,,,"Lunar_Menu_Music",,,
-"Retropolis2023",,"sc/background_retropolis.sc","bgr_retropolis",,,,,"Retropolis_menu",,"sc/loading_retropolis.sc","button_cctv"
-"WF2023",,"sc/background_wf2023.sc","bgr_wf2023",,,,,"MenuMusic","sfx/brawlywood_load_01.ogg","sc/loading_wf2023.sc","button_cctv"
-"Hindu",,"sc/background_hindu.sc","bgr_hindu",,,,,"Hindu_Menu","sfx/hindu_brawl_loading_01.ogg","sc/loading_hindu.sc","button_cctv"
-"Halloween2023",,"sc/background_brawloween2023.sc","bgr_brawloween",,,,,"Halloween_menu","sfx/brawloween_load_01.ogg","sc/loading_brawloween2023.sc",
-"Circus",,"sc/background_circus.sc","bgr_circus",,,,,"Circus_Menu","sfx/hindu_circus_loading_01.ogg",,"button_cctv"
+"Retropolis2023","true","sc/background_retropolis.sc","bgr_retropolis",,,,,"Retropolis_menu",,"sc/loading_retropolis.sc","button_cctv"
+"WF2023","true","sc/background_wf2023.sc","bgr_wf2023",,,,,"MenuMusic","sfx/brawlywood_load_01.ogg","sc/loading_wf2023.sc","button_cctv"
+"Hindu","true","sc/background_hindu.sc","bgr_hindu",,,,,"Hindu_Menu","sfx/hindu_brawl_loading_01.ogg","sc/loading_hindu.sc","button_cctv"
+"Halloween2023","true","sc/background_brawloween2023.sc","bgr_brawloween",,,,,"Halloween_menu","sfx/brawloween_load_01.ogg","sc/loading_brawloween2023.sc",
+"Circus","true","sc/background_circus.sc","bgr_circus",,,,,"Circus_Menu","sfx/hindu_circus_loading_01.ogg",,"button_cctv"
+"Brawlidays2023",,"sc/background_brawlidays2023.sc","bgr_brawlidays2023",,,,,"Xmas_menu","sfx/brawl_xmas_load_01.ogg",,"button_cctv"
+"LNY24",,"sc/background_lny24.sc","bgr_lny24",,,,,"Retro_Fight_Menu","sfx/brawl_fighting_load_01.ogg","sc/loading_lny2024.sc",
+"Cartoon",,"sc/background_cartoon.sc","bgr_cartoon",,,,,"Brawly_Toonz_Menu","sfx/brawly_toonz_loading_01.ogg","sc/loading_cartoon.sc",
+"Superbrawl",,"sc/background_superbrawl.sc","bgr_superbrawl",,,,,"Highschool_Menu","sfx/monster_university_loading_01.ogg","sc/loading_lny2024.sc",
+"Carnaval",,"sc/background_carnaval.sc","bgr_carnaval","sc/ui.sc","particle_snow_","Snow",2,"Footbrawl_menu_muzak","sfx/brawl_fighting_load_01.ogg","sc/loading_lny2024.sc",
