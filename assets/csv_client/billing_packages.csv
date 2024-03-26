@@ -346,3 +346,4 @@
 "com.supercell.laser.carry.seasonpass.plus","TID_SHOP_SPECIAL_OFFER",7,,"FALSE","TRUE","TRUE","FALSE","TRUE","FALSE","FALSE",0,,999,0,,,,,,,,,,,,,,5000,,"TRUE","TRUE","TRUE",
 "com.supercell.laser.scid.seasonpass.basic","TID_SHOP_SPECIAL_OFFER",7,,"FALSE","TRUE","TRUE","FALSE","TRUE","FALSE","FALSE",0,,699,0,,,,,,,,,,,,,,2800,,"TRUE","TRUE","FALSE",
 "com.supercell.laser.scid.seasonpass.plus","TID_SHOP_SPECIAL_OFFER",7,,"FALSE","TRUE","TRUE","FALSE","TRUE","FALSE","FALSE",0,,999,0,,,,,,,,,,,,,,5000,,"TRUE","TRUE","TRUE",
+"com.supercell.laser.scid.specialoffertier0.free","TID_SHOP_SPECIAL_OFFER",6,,"FALSE","TRUE","TRUE","FALSE","TRUE","FALSE","FALSE",0,,0,0,,,,,,,,,,,,,,0,,"TRUE",FALSE,FALSE,
