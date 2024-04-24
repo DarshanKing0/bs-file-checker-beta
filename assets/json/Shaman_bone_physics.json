@@ -265,5 +265,38 @@
 				[],
 				[]
 			]
+		},
+		"ShamanDragon_black":{"Ins":"ShamanDragon"},
+		"ShamanGodzilla":{
+			"bone":["hips_s","chest_s","L_shoulder_s","L_elbow_s","L_wrist_s","R_shoulder_s","R_wrist_s","neck_s","tail_00_s","tail_01_s",
+				"tail_02_s"],
+			"dir":["y","y","y","y","y","y","y","y","y","y",
+				"y"],
+			"max":[25,25,25,25,25,25,25,25,25,25,
+				25],
+			"min":[-25,-25,-25,-25,-25,-25,-25,-25,-25,-25,
+				-25],
+			"soft":[2,1,3,3,3,3,3,1,3,3,
+				3],
+			"follow":[0,0,0,0,0,0,0,0,0,0,
+				0],
+			"child":[
+				["C_back_dress_s","C_front_dress_s","spine_lower_s","spine_upper_s","chest_s","L_clavicle_s","L_shoulder_s","L_elbow_s","L_forearm_twist_s","L_wrist_s",
+					"L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s","R_clavicle_s","R_shoulder_s","R_elbow_s","R_forearm_twist_s",
+					"R_wrist_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s","neck_s","head_s","hat_01_s",
+					"tail_00_s","tail_01_s","tail_02_s"],
+				["L_clavicle_s","L_shoulder_s","L_elbow_s","L_forearm_twist_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s",
+					"L_thumb_02_s","R_clavicle_s","R_shoulder_s","R_elbow_s","R_forearm_twist_s","R_wrist_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s",
+					"R_thumb_01_s","R_thumb_02_s","neck_s","head_s","hat_01_s"],
+				["L_elbow_s","L_forearm_twist_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["L_forearm_twist_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["R_elbow_s","R_forearm_twist_s","R_wrist_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s"],
+				["R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s"],
+				["head_s","hat_01_s"],
+				["tail_01_s","tail_02_s"],
+				["tail_02_s"],
+				[]
+			]
 		}
 	}

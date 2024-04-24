@@ -140,5 +140,7 @@
 				["coat_tail_02_s"],
 				[]
 			]
-		}
+		},
+		"SnakeOilTropical":{"Ins":"SnakeOilDefault"},
+		"SnakeOilWizard_white":{"Ins":"SnakeOilWizard"}
 	}

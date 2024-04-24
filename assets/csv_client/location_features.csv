@@ -69,3 +69,4 @@
 "Nose","AnimateSwitchBetween","FightingGame","nose_frame_1;nose_frame_2",,500
 "Hair","AnimateSwitchBetween","FightingGame","hair_frame_1;hair_frame_2",,300
 "LoveSwampWillow","HideIfCharacter","LoveSwamp","willow_stuff","Puppeteer",
+"MadevilDraco","HideIfCharacter","MadEvilManor","draco_stuff","DragonRider",

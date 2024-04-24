@@ -178,11 +178,12 @@
 				[]
 			]
 		},
+		"BarkeepGold":{"Ins":"BarkeepDefault"},
 		"BarkeepDefault":{
 			"bone":["hips_s","chest_s","L_shoulder_s","L_elbow_s","neck_s","L_eyebrow_s","R_eyebrow_s","R_wrist_s","hat_01_s"],
 			"dir":["y","y","y","y","y","y","y","z","z"],
-			"max":[25,19,11,6,25,-11,-11,30,9],
-			"min":[-25,-19,-40,-47,-25,11,11,-30,-9],
+			"max":[90,19,11,6,25,-11,-11,30,9],
+			"min":[-90,-19,-40,-47,-25,11,11,-30,-9],
 			"soft":[3,5,1,2,2,6,6,2,5],
 			"follow":[0,0,0,0,0,0,0,0,0],
 			"child":[
@@ -203,6 +204,5 @@
 				["R_gunbone_01_s","R_gunbone_02_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s"],
 				["hat_02_s"]
 			]
-		},
-		"BarkeepGold":{"Ins":"BarkeepDefault"}
+		}
 	}

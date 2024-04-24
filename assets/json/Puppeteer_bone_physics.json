@@ -145,5 +145,7 @@
 				[]
 			]
 		},
+		"PuppeteerGold":{"Ins":"PuppeteerDefault"},
+		"PuppeteerSilver":{"Ins":"PuppeteerDefault"},
 		"PuppeteerAxl":{"Ins":"PuppeteerDefault"}
 	}

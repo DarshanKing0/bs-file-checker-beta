@@ -34,6 +34,8 @@
 			]
 		},
 		"ConductorRare":{"Ins":"ConductorDefault"},
+		"ConductorGold":{"Ins":"ConductorDefault"},
+		"ConductorSilver":{"Ins":"ConductorDefault"},
 		"ConductorDefault":{
 			"bone":["hips_s","chest_s","L_shoulder_s","neck_s","R_shoulder_s","hat_02_s","scarf_01_s","scarf_02_s","scarf_03_s"],
 			"dir":["y","y","y","y","y","x","z","z","z"],

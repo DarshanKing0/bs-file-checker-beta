@@ -101,6 +101,8 @@
 				[]
 			]
 		},
+		"LeaperGold":{"Ins":"LeaperDefault"},
+		"LeaperSilver":{"Ins":"LeaperDefault"},
 		"LeaperDefault":{
 			"bone":["hips_s","chest_s","neck_s","Earing_s","L_shoulder_s","Tail_02_s","Tail_03_s","Tail_04_s","Tail_05_s"],
 			"dir":["y","y","y","y","y","y","y","y","y"],

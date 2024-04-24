@@ -297,5 +297,45 @@
 				["skirt_02_s"],
 				[]
 			]
+		},
+		"BaseballGamer_remake":{
+			"bone":["hips_s","chest_s","neck_s","L_braid_01_s","L_braid_02_s","L_earring_s","L_shoulder_s","L_elbow_s","L_wrist_s","R_braid_01_s",
+				"R_braid_02_s","R_earring_s","R_shoulder_s","chain_01_s","chain_02_s"],
+			"dir":["y","y","y","z","z","y","y","y","y","z",
+				"z","y","y","x","x"],
+			"max":[25,17,25,11,11,25,25,25,25,30,
+				29,25,25,-11,-43],
+			"min":[-25,-17,-25,-43,-31,-25,-25,-25,-25,-9,
+				-9,-25,-25,11,43],
+			"soft":[2,1,1,2,2,3,2,2,2,2,
+				2,3,2,2,2],
+			"follow":[0,0,0,0,0.1,0,0,0,0,0,
+				0.1,0,0,0,0.1],
+			"child":[
+				["spine_lower_s","spine_mid_s","spine_upper_s","chest_s","neck_s","head_s","L_braid_01_s","L_braid_02_s","L_clavicle_s","L_earring_s",
+					"L_shoulder_s","L_elbow_s","L_forearm_twist_s","L_jacket_s","L_hood_cord_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s",
+					"L_thumb_01_s","L_thumb_02_s","R_braid_01_s","R_braid_02_s","R_clavicle_s","R_earring_s","R_shoulder_s","R_elbow_s","R_forearm_twist_s","R_wrist_s",
+					"R_gunbone_01_s","R_gunbone_02_s","R_jacket_s","R_hood_cord_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s",
+					"bubblegum_01_s","bubblegum_02_s","chain_01_s","chain_02_s","hood_s"],
+				["neck_s","head_s","L_braid_01_s","L_braid_02_s","L_clavicle_s","L_earring_s","L_shoulder_s","L_elbow_s","L_forearm_twist_s","L_jacket_s",
+					"L_hood_cord_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s","R_braid_01_s","R_braid_02_s",
+					"R_clavicle_s","R_earring_s","R_shoulder_s","R_elbow_s","R_forearm_twist_s","R_wrist_s","R_gunbone_01_s","R_gunbone_02_s","R_jacket_s","R_hood_cord_s",
+					"R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s","bubblegum_01_s","bubblegum_02_s","chain_01_s","chain_02_s",
+					"hood_s"],
+				["head_s","L_braid_01_s","L_braid_02_s","L_earring_s","R_braid_01_s","R_braid_02_s","R_earring_s","bubblegum_01_s","bubblegum_02_s"],
+				["L_braid_02_s"],
+				[],
+				[],
+				["L_elbow_s","L_forearm_twist_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["L_forearm_twist_s","L_wrist_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
+				["R_braid_02_s"],
+				[],
+				[],
+				["R_elbow_s","R_forearm_twist_s","R_wrist_s","R_gunbone_01_s","R_gunbone_02_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s",
+					"R_thumb_02_s","chain_01_s","chain_02_s"],
+				["chain_02_s"],
+				[]
+			]
 		}
 	}

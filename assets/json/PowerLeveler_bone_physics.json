@@ -207,5 +207,6 @@
 				["R_elbow_s","R_forearm_twist_s","R_wrist_s","R_gunbone_01_s","R_gunbone_02_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_pinky_01_s",
 					"R_pinky_02_s","R_ring_01_s","R_ring_02_s","R_thumb_01_s","R_thumb_02_s"]
 			]
-		}
+		},
+		"PowerLevelerKnight_red":{"Ins":"PowerLevelerKnight"}
 	}

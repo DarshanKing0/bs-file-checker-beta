@@ -94,5 +94,41 @@
 				[],
 				[]
 			]
+		},
+		"ClusterBombDudeGodzillaDark":{"Ins":"ClusterBombDudeGodzilla"},
+		"ClusterBombDudeGodzillaGold":{"Ins":"ClusterBombDudeGodzilla"},
+		"ClusterBombDudeGodzilla":{
+			"bone":["hips_s","chest_s","L_shoulder_s","L_wrist_s","L_jaw_s","L_turbine_00_s","L_turbine_01_s","L_wing_s","R_shoulder_s","R_wrist_s",
+				"R_jaw_s","R_turbine_00_s","R_turbine_01_s","R_wing_s","head_s"],
+			"dir":["y","y","y","y","y","y","y","y","y","y",
+				"y","y","y","y","y"],
+			"max":[25,25,25,25,25,30,25,25,25,25,
+				25,34,25,25,28],
+			"min":[-25,-25,-25,-25,-25,-30,-25,-25,-25,-25,
+				-25,-34,-25,-25,-28],
+			"soft":[2,1,3,3,1,6,5,3,3,3,
+				1,6,5,3,2],
+			"follow":[0,0,0,0,0,0,0,0,0,0,
+				0,0,0,0,0],
+			"child":[
+				["spine_upper_s","chest_s","L_shoulder_s","L_wrist_s","L_gunbone_01_s","L_jaw_s","L_muzzle_s","L_turbine_00_s","L_turbine_01_s","L_wing_s",
+					"R_shoulder_s","R_wrist_s","R_jaw_s","R_muzzle_s","R_turbine_00_s","R_turbine_01_s","R_wing_s","back_collar_01_s","back_collar_02_s","head_s",
+					"hat_01_s","rocket_s"],
+				["L_shoulder_s","L_wrist_s","L_gunbone_01_s","L_jaw_s","L_muzzle_s","L_wing_s","R_shoulder_s","R_wrist_s","R_jaw_s","R_muzzle_s",
+					"R_wing_s","back_collar_01_s","back_collar_02_s","head_s","hat_01_s"],
+				["L_wrist_s","L_gunbone_01_s","L_jaw_s","L_muzzle_s"],
+				["L_gunbone_01_s","L_jaw_s","L_muzzle_s"],
+				[],
+				["L_turbine_01_s"],
+				[],
+				[],
+				["R_wrist_s","R_jaw_s","R_muzzle_s"],
+				["R_jaw_s","R_muzzle_s"],
+				[],
+				["R_turbine_01_s"],
+				[],
+				[],
+				["hat_01_s"]
+			]
 		}
 	}

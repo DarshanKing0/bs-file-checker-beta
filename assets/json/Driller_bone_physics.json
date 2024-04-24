@@ -101,5 +101,6 @@
 			"follow":[0,0,0],
 			"child":[["head_s","L_hair_01_s","L_hair_02_s","R_hair_01_s","R_hair_02_s","hat_01_s","headGlass_s"],["L_hair_02_s"],["R_hair_02_s"]]
 		},
-		"DrillerConstructor":{"Ins":"DrillerDefault"}
+		"DrillerConstructor":{"Ins":"DrillerDefault"},
+		"DrillerJetski_purple":{"Ins":"DrillerJetski"}
 	}

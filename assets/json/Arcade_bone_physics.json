@@ -122,5 +122,6 @@
 				[]
 			]
 		},
-		"ArcadeClassic":{"Ins":"ArcadeDefault"}
+		"ArcadeClassic":{"Ins":"ArcadeDefault"},
+		"ArcadePiano_black":{"Ins":"ArcadePiano"}
 	}

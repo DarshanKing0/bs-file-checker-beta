@@ -42,6 +42,8 @@
 				[]
 			]
 		},
+		"AttacherGold":{"Ins":"AttacherDefault"},
+		"AttacherSilver":{"Ins":"AttacherDefault"},
 		"AttacherDefault":{
 			"bone":["hips_s","chest_s","neck_s","Ball_s","L_ear_01_s","L_ear_02_s","R_ear_01_s","R_ear_02_s","Tail_01_s","Tail_02_s",
 				"Tail_03_s","Tail_04_s","Tail_05_s"],
