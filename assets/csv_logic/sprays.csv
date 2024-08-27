@@ -326,5 +326,5 @@
 "spray_piper_greek",,,"sc/ui.sc","spray_piper_greek","Sniper","SniperGreek",,"COMMON",255,156,29,"TRUE",,,,"spray_piper_greek.png",,,,,,,,
 "spray_rico_loaded_new",,,"sc/ui.sc","spray_rico_loaded_new","TrickshotDude","TrickshotDudeKing_remake",,"COMMON",132,247,1,"TRUE",,,,"spray_rico_loaded_new.png",,,,,,,,
 "spray_rt_greek",,,"sc/ui.sc","spray_rt_greek","Splitter","SplitterGreek",,"COMMON",255,90,0,"TRUE",,,,"spray_rt_greek.png",,,,,,,,
-"spray_cheese",,,"sc/ui.sc","spray_cheese",,,,"COMMON",,,,"TRUE",,,,"spray_cheese.png",,,,,,,,
+"spray_cheese",,,"sc/ui.sc","spray_cheese",,,,"COMMON",250,255,53,"TRUE",,,,"spray_cheese.png",,,,,,,,
 "spray_esports_greek",,,"sc/ui.sc","spray_esports_greek",,,,"COLLECTORS",255,152,18,"TRUE",,,,"spray_esports_greek.png",,,,,,"TRUE",,

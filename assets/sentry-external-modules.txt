@@ -121,8 +121,8 @@ com.google.android.gms:play-services-tasks:18.1.0
 com.google.android.libraries.play.games:inputmapping:1.1.0-beta
 com.google.android.material:material:1.6.1
 com.google.android.play:app-update-ktx:2.0.0
-com.google.android.play:app-update:2.0.1
-com.google.android.play:core-common:2.0.2
+com.google.android.play:app-update:2.1.0
+com.google.android.play:core-common:2.0.3
 com.google.android.play:review-ktx:2.0.0
 com.google.android.play:review:2.0.0
 com.google.android.ump:user-messaging-platform:2.2.0
@@ -200,8 +200,8 @@ com.squareup.retrofit2:converter-gson:2.9.0
 com.squareup.retrofit2:retrofit:2.9.0
 com.supercell.id.scid_plugin:scid_plugin_release:1.0
 com.supercell.id:flutter_release:1.0
-com.supercell.id:scid-lib-release:1.4.10
-com.supercell.id:scid-sdk-release:1.4.10
+com.supercell.id:scid-lib-release:1.4.13
+com.supercell.id:scid-sdk-release:1.4.13
 com.unity3d.ads:unity-ads:4.10.0
 com.usercentrics.sdk:usercentrics-ui:2.15.1
 com.usercentrics.sdk:usercentrics:2.15.1
