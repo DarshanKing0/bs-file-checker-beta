@@ -15,6 +15,7 @@ import "gateway/v1/pii.proto";
 import "gateway/v1/privacy_update_request.proto";
 import "gateway/v1/test_data.proto";
 import "gateway/v1/timestamps.proto";
+import "gateway/v1/transaction_event_request.proto";
 import "google/protobuf/timestamp.proto";
 
 option swift_prefix = "Gateway";
@@ -63,6 +64,8 @@ message UniversalRequest {
       AdDataRefreshRequest ad_data_refresh_request = 9;
       // Initialization Completed Event
       InitializationCompletedEventRequest initialization_completed_event_request = 10;
+      // Transaction event for IAP
+      TransactionEventRequest transaction_event_request = 11;
     }
   }
 

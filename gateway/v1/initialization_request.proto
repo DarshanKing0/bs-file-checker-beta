@@ -13,6 +13,7 @@ message InitializationDeviceInfo {
   string device_make = 2;
   string device_model = 3;
   string os_version = 4;
+  optional int32 tracking_auth_status = 5; 
 }
 
 // InitializationRequest is the request sent by the SDK to the gateway

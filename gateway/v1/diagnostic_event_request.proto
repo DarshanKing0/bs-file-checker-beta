@@ -26,6 +26,12 @@ enum DiagnosticEventsSeverity {
   DIAGNOSTIC_EVENTS_SEVERITY_ALWAYS = 5;
 }
 
+enum DiagnosticAdType {
+  DIAGNOSTIC_AD_TYPE_UNSPECIFIED = 0;
+  DIAGNOSTIC_AD_TYPE_FULLSCREEN = 1;
+  DIAGNOSTIC_AD_TYPE_BANNER = 2;
+}
+
 // A tag attached to a diagnostic event
 message DiagnosticTag {
   // Tag type using predefined integer representation
@@ -60,6 +66,15 @@ message DiagnosticEvent {
   // The unique auto-incrementing event id for each event - replaces the batch
   // ID to allow for retries to add to batches
   int32 event_id = 7;
+
+  // Impression Opportunity ID of associated AdObject
+  optional bytes impression_opportunity_id = 8;
+  // Placement ID of associated AdObject
+  optional string placement_id = 9;
+  // Ad type of associated AdObject
+  optional DiagnosticAdType ad_type = 10;
+  // AdObject loaded with header bidding ad markup
+  optional bool is_header_bidding = 11;
 }
 
 message DiagnosticEventRequest {

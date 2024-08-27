@@ -192,7 +192,7 @@ com.squareup.okio:okio-jvm:3.0.0
 com.squareup.retrofit2:converter-gson:2.9.0
 com.squareup.retrofit2:retrofit:2.9.0
 com.supercell.id:supercell-id-release:5093
-com.unity3d.ads:unity-ads:4.9.3
+com.unity3d.ads:unity-ads:4.10.0
 com.usercentrics.sdk:usercentrics-ui:2.14.2
 com.usercentrics.sdk:usercentrics:2.14.2
 com.vungle:vungle-ads:7.1.0

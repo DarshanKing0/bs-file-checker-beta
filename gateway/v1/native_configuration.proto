@@ -18,7 +18,7 @@ message RequestRetryPolicy {
   // The maximum time (ms) before retrying a request - any inter-request delay
   // should not exceed this value (used on long max duration)
   int32 retry_max_interval = 3;
-  // The jitter percentage that should be applied to the overall delay
+  // The jitter percentage (0.0-1.0) that should be applied to the overall delay
   float retry_jitter_pct = 4;
   // The retry scaling factor that should be used to create the time delay
   // between the requests
@@ -105,6 +105,10 @@ message NativeConfiguration {
   AdOperationsConfiguration ad_operations = 6;
   // Feature flags for experimental features
   FeatureFlags feature_flags = 7;
+	// If set, will enable collection of IAP data
+  bool enable_iap_event = 8;
+  // If set, will enable  Open-Measurement-SDK
+  bool enable_om = 9;
 }
 
 // Message which contains all current experimental features that can be enabled

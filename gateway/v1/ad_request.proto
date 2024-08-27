@@ -9,6 +9,17 @@ import "gateway/v1/static_device_info.proto";
 
 option swift_prefix = "Gateway";
 
+enum AdRequestType {
+  AD_REQUEST_TYPE_UNSPECIFIED = 0;
+  AD_REQUEST_TYPE_FULLSCREEN = 1;
+  AD_REQUEST_TYPE_BANNER = 2;
+}
+
+message BannerSize {
+  int32 width = 1;
+  int32 height = 2;
+}
+
 // AdRequest is the request sent from the SDK to the Gateway
 // It contains all the information needed to make a decision on what ad to return
 message AdRequest {
@@ -18,7 +29,7 @@ message AdRequest {
   StaticDeviceInfo static_device_info = 2;
   // Dynamic Device Info collected at request time. Information collected here can change during session.
   DynamicDeviceInfo dynamic_device_info = 3;
-  // Current campaign state in the SDK
+  // Current campaign state in the SDK, will be populated only for full screen video ads and contain information about them
   CampaignState campaign_state = 4;
   // Impression Opportunity ID
   bytes impression_opportunity_id = 5;
@@ -32,4 +43,8 @@ message AdRequest {
   optional int32 webview_version = 9;
   // TCF String provided by Publisher
   optional bytes tcf = 10;
+  // Ad Request Type
+  optional AdRequestType ad_request_type = 11;
+  // Banner Size
+  optional BannerSize banner_size = 12;
 }
