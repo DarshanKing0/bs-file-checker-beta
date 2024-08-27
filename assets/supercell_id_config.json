@@ -13,5 +13,6 @@
     "www.google.com"
   ],
   "EnableStoreAndGifts":true,
-  "UseSessionToken": false
+  "UseSessionToken": false,
+  "UseUniqueHandles": true
 }

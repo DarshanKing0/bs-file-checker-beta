@@ -13,3 +13,4 @@
 "saturnalFrame","sc/ui.sc","battle_card_frame_fame_saturn_bg",,,4,"TRUE",900
 "solarFrame","sc/ui.sc","battle_card_frame_fame_sun_bg",,,5,"TRUE",900
 "meteorFrame","sc/ui.sc","battle_card_frame_fame_meteor_bg",,,6,"TRUE",900
+"alienFrame","sc/ui.sc","battle_card_frame_fame_alien_bg",,,7,"TRUE",900

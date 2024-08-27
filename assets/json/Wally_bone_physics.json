@@ -139,5 +139,27 @@
 				["leaf_02_s"],
 				[]
 			]
+		},
+		"WallyDeepsea":{
+			"bone":["body_s","chest_s","L_arm_01_s","L_arm_02_s","L_arm_03_s","R_arm_01_s","R_arm_03_s","leaf_01_s","leaf_02_s"],
+			"dir":["y","y","y","y","y","y","y","y","y"],
+			"max":[25,25,2,2,2,25,25,2,15],
+			"min":[-25,-25,-81,-85,-85,-25,-25,-2,-15],
+			"soft":[2,1,2,2,3,3,3,1,3],
+			"follow":[0,0,0,0,0,0,0,0,0],
+			"child":[
+				["Coral_01_s","Coral_02_s","Coral_03_s","Coral_04_s","L_B_leg_01_s","L_B_leg_02_s","L_F_leg_01_s","L_F_leg_02_s","chest_s","L_arm_01_s",
+					"L_arm_02_s","L_arm_03_s","L_arm_04_s","L_hand_canon_s","R_B_leg_01_s","R_B_leg_02_s","R_F_leg_01_s","R_F_leg_02_s","R_arm_01_s","R_arm_02_s",
+					"R_arm_03_s","R_arm_04_s","R_hand_canon_s","leaf_01_s","leaf_02_s"],
+				["body_s","L_B_leg_01_s","L_F_leg_01_s","L_arm_01_s","L_arm_02_s","L_arm_03_s","L_arm_04_s","L_hand_canon_s","R_B_leg_01_s","R_F_leg_01_s",
+					"R_arm_01_s","R_arm_02_s","R_arm_03_s","R_arm_04_s","R_hand_canon_s","leaf_01_s","leaf_02_s"],
+				["L_arm_02_s","L_arm_03_s","L_arm_04_s","L_hand_canon_s"],
+				["L_arm_03_s","L_arm_04_s","L_hand_canon_s"],
+				["L_arm_04_s","L_hand_canon_s"],
+				["R_arm_02_s","R_arm_03_s","R_arm_04_s","R_hand_canon_s"],
+				["R_arm_04_s","R_hand_canon_s"],
+				["leaf_02_s"],
+				[]
+			]
 		}
 	}

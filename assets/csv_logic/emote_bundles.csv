@@ -1,7 +1,7 @@
 "Name","Disabled","IconSWF","IconExportName","TID","CanBeBought","RepresentingHighlightEmote"
 "string","boolean","string","string","string","boolean","string"
 "RosalloweenChallenge",,"sc/ui.sc","pin_pack_rosalloween","TID_EMOTE_BUNDLE_ROSALLOWEEN","false",
-"WorldFinals",,"sc/ui.sc","pin_pack_wf","TID_EMOTE_BUNDLE_WF","true",
+"WorldFinals",,"sc/ui.sc","pin_pack_champie","TID_EMOTE_BUNDLE_WF","true","emoji_champie"
 "Rosalloween",,"sc/ui.sc","pin_pack_rosalloween","TID_EMOTE_BUNDLE_ROSALLOWEEN","false",
 "BrawlMasPack",,"sc/ui.sc","pin_pack_rosalloween","TID_EMOTE_BUNDLE_BRALWMAS_PACK","true",
 "BrawlMasGift",,"sc/ui.sc","pin_pack_rosalloween","TID_EMOTE_BUNDLE_BRALWMAS_GIFT","true",
@@ -44,3 +44,5 @@
 "Ragnarok",,"sc/ui.sc","pin_pack_skull_ragnarock","TID_EMOTE_BUNDLE_SKULL_RAGNAROK","true","emoji_skull_ragnarock"
 "Godzillaegg",,"sc/ui.sc","pin_pack_godzilla_egg","TID_EMOTE_BUNDLE_GODZILLA_EGG","true","emoji_godzilla_egg"
 "Hackers",,"sc/ui.sc","pin_pack_hacker","TID_EMOTE_BUNDLE_SKULL_HACKER","true","emoji_hacker"
+"BSC2021",,"sc/ui.sc","pin_pack_champie","TID_EMOTE_BUNDLE_WF_2021","true","emoji_champie_thuglife"
+"BSC2020",,"sc/ui.sc","pin_pack_champie","TID_EMOTE_BUNDLE_WF_2020","true","emoji_champie_gg"

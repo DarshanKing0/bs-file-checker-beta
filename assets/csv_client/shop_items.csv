@@ -79,3 +79,5 @@
 ,,,,,,,3,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,4,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,5,-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"SpecialEventTokens",54,"FALSE","TRUE",,"TRUE",,,,"shop_item_resourses_gems",,"shop_popupitem_16",,,,,,"shop_item_resourses_gems","shop_item_resourses_gems","offer_item_gems_big","offer_item_gems_big","offer_item_gems_small","offer_item_gems_big",,,,,"offer_gems","brawlpass_reward_premium_gems","brawlpass_reward_free_gems",,,,"reward_profilebutton_16",,,,,,,,,,,,"offer_item_gems_small","offer_item_gems_small","offer_item_gems_small",,"first_win","icon_first_win"
+"MegaBox",55,"TRUE","TRUE",,"FALSE",,0,1,,,"shop_popupitem_55",,,,,,,,"offer_item_classic_mega_box_big","offer_item_classic_mega_box_big","offer_item_classic_mega_box_big","offer_item_classic_mega_box_big",,,,,,,,,,,,,,,,,,,,,,,,,,"TID_SHOP_OFFER_TITLE_55","resource","icon_resource_random_reward"

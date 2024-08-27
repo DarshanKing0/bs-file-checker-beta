@@ -18,3 +18,6 @@
 "Meteor1",20000,6,"TID_FAME_TIER_METEOR1","sc/ui.sc","icon_fame_tier_6_1","fame_big_tier_6","fame_stars_tier_6_1","meteorFrame",
 "Meteor2",20000,6,"TID_FAME_TIER_METEOR2","sc/ui.sc","icon_fame_tier_6_2","fame_big_tier_6","fame_stars_tier_6_2","player_icon_fame_meteor",25
 "Meteor3",20000,6,"TID_FAME_TIER_METEOR3","sc/ui.sc","icon_fame_tier_6_3","fame_big_tier_6","fame_stars_tier_6_3","emoji_fame_meteor",19
+"Alien1",50000,7,"TID_FAME_TIER_ALIEN1","sc/ui.sc","icon_fame_tier_7_1","fame_big_tier_7","fame_stars_tier_7_1","alienFrame",
+"Alien2",50000,7,"TID_FAME_TIER_ALIEN2","sc/ui.sc","icon_fame_tier_7_2","fame_big_tier_7","fame_stars_tier_7_2","player_icon_fame_alien",25
+"Alien3",50000,7,"TID_FAME_TIER_ALIEN3","sc/ui.sc","icon_fame_tier_7_3","fame_big_tier_7","fame_stars_tier_7_3","emoji_fame_alien",19

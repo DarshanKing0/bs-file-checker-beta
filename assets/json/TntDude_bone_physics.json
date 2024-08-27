@@ -202,5 +202,6 @@
 				["L_gunbone_01_s","L_gunbone_02_s","L_gunbone_03_s","L_index_01_s","L_index_02_s","L_middle_01_s","L_middle_02_s","L_thumb_01_s","L_thumb_02_s"],
 				[]
 			]
-		}
+		},
+		"TntDudeClassic_yellow":{"Ins":"TntDudeRetro"}
 	}

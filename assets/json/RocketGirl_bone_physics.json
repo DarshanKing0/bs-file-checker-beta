@@ -190,5 +190,6 @@
 				[],
 				["R_wrist_s","R_index_01_s","R_index_02_s","R_middle_01_s","R_middle_02_s","R_thumb_01_s","R_thumb_02_s"]
 			]
-		}
+		},
+		"RocketGirlClassic_white":{"Ins":"RocketGirlDefault"}
 	}
